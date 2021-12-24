@@ -1,0 +1,8 @@
+"plugins" : [ "term" ],
+"pluginsConfig": {
+  "term": {
+    "copyButtons": true,
+    "fade": false,
+    "style": "classic",
+  }
+}
